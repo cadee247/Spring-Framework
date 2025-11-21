@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Spring Boot",
+    "description": "Learn how to build your first Spring Boot application.",
+    "published": true
+  },
+  {
+    "id": 2,
+    "title": "Understanding JPA and Hibernate",
+    "description": "Explore how JPA works with Hibernate to manage database entities.",
+    "published": false
+  },
+  {
+    "id": 3,
+    "title": "REST API Design Best Practices",
+    "description": "Tips and tricks for designing clean and scalable RESTful APIs.",
+    "published": true
+  },
+  {
+    "id": 4,
+    "title": "Connecting Spring Boot to PostgreSQL",
+    "description": "Step-by-step guide to integrate PostgreSQL with Spring Boot.",
+    "published": true
+  },
+  {
+    "id": 5,
+    "title": "Spring Boot Error Handling",
+    "description": "How to handle exceptions and return meaningful error responses.",
+    "published": false
+  }
+]
